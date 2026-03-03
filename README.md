@@ -46,14 +46,13 @@
 ![Apache Kafka](https://img.shields.io/badge/-Kafka-000?style=flat&logo=apache-kafka)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
-![JDBC](https://img.shields.io/badge/-JDBC-000?style=flat)
-![Java Swing](https://img.shields.io/badge/-Java%20Swing-000?style=flat)
 
 ---
 
 ### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
 ---
 
