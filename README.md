@@ -61,9 +61,10 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Het-Buch&theme=github_dark" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: ![LinkedIn](https://www.linkedin.com/in/het-buch-274415223/)
-- 📧 Email: ![Het Buch](mailto:hetbuch88@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/het-buch-274415223/))
+[![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:hetbuch88@gmail.com)
