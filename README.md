@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Het 👋</h1>
+<h3 align="center">Machine Learning Engineer | Deep Learning & Computer Vision</h3>
 
-<!--
-**Het-Buch/Het-Buch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Het-Buch&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🧠 Focused on Deep Learning, Computer Vision & End-to-End ML Systems  
+⚙️ Interested in scalable, deployable AI solutions  
+☁️ Exploring Cloud (AWS) & production ML systems  
+📊 Passionate about modeling, system design, and visualization  
+
+---
+
+## 🔬 Currently Working On
+
+- 📹 Deep Learning–Based Event Timeline Reconstruction System  
+- 📊 Spatio-Temporal Risk Modeling & Forecasting  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java)
+
+---
+
+### 🤖 Machine Learning & AI
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--learn-000?style=flat&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/-XGBoost-000?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?style=flat&logo=opencv)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?style=flat&logo=streamlit)
+
+---
+
+### ⚙️ Backend & Systems
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-000?style=flat&logo=apache-kafka)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)
+![JDBC](https://img.shields.io/badge/-JDBC-000?style=flat)
+![Java Swing](https://img.shields.io/badge/-Java%20Swing-000?style=flat)
+
+---
+
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Het-Buch&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: ![LinkedIn](https://www.linkedin.com/in/het-buch-274415223/)
+- 📧 Email: ![Het Buch](mailto:hetbuch88@gmail.com)
