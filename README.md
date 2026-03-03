@@ -56,12 +56,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Het-Buch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Het9999&theme=github_dark" />
 </p>
-
 ---
 
 ## 📫 Connect With Me
